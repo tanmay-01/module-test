@@ -1,5 +1,5 @@
 package calc
 
-func Add(i int, j int) int {
-	return i + j
+func Add(i, j, k int) int {
+	return i + j + k
 }
